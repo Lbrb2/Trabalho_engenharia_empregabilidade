@@ -1,4 +1,5 @@
 # Atividade 2 — Engenharia de Dados · PNAD Desocupação / Ocupação
+# Equipe: Anna Clara, Fabiana Lima, Felipe Saraiva, Lucas Barros, Renan Vanbasten
 
 Pipeline ETL com **Arquitetura Medalhão** (Bronze → Silver → Gold),
 **pandas** na transformação e **múltiplos bancos** na camada Gold
