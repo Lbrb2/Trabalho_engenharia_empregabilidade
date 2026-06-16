@@ -1,0 +1,5 @@
+locations:
+  - location_name: pnad-etl
+    code_source:
+      python_file: pipeline_flow.py
+    working_directory: .
