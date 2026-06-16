@@ -1,0 +1,7 @@
+locations:
+  - location_name: pnad-etl
+    code_from:
+      python_file: pipeline_flow.py
+    working_directory: .
+    build:
+      pip_requirements_file: requirements-cloud.txt
